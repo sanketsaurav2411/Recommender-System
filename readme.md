@@ -11,7 +11,7 @@ The project is a recommender system that utilizes a specific algorithm for gener
 - Model Evaluation: Scikit-learn
 - Development Environment: Jupyter Notebook
 
-## How to run this project
+## Run this project
 
 ### Get required files
 - Install Python (Dont forget to tick Add to Path while installing Python)
