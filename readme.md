@@ -16,7 +16,7 @@ The project is a recommender system that utilizes a specific algorithm for gener
   <img src="screenshots/ss1.png" style="width: 48%;" />  <img src="screenshots/ss2.png" style="width: 48%;" />
 </p>
 <p float="left">
-  <img src="screenshots/ss3.png" style="width: 45%;" />  <img src="screenshots/ss4.png" style="width: 48%;" />
+  <img src="screenshots/ss3.png" style="width: 48%;" />  <img src="screenshots/ss4.png" style="width: 48%;" />
 </p>
 
 
