@@ -11,6 +11,9 @@ The project is a recommender system that utilizes a specific algorithm for gener
 - Model Evaluation: Scikit-learn
 - Development Environment: Jupyter Notebook
 
+## Get dataset
+- Get the dataset [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+
 ## Run this project
 
 ### Get required files
@@ -20,6 +23,10 @@ The project is a recommender system that utilizes a specific algorithm for gener
 ```sh
 py -m pip install -r requirements.txt
 ```
+
+### Generate pickle file
+- Run [mrs_main](mrs_main.ipynb)
+- Two files will be generated `movie_dict.pkl` and `similarity.pkl`
 
 ### Run App
 ```sh
