@@ -8,7 +8,7 @@ from PIL import Image
 import streamlit.components.v1 as components
 import codecs
 
-API_KEY = "907a7ba82f3f1e84c774e51ad9b7e489"
+API_KEY = "..."
 
 st.set_page_config(
     page_title="Movie Recommender App",
