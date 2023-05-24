@@ -1,12 +1,31 @@
-# Recommender-System
+# Recommender-System &nbsp;&nbsp;[![](https://img.shields.io/badge/framework-Streamklit-red)](https://docs.streamlit.io/) 
 
-## Screenshots:
-![Screenshot 2023-05-20 203831](https://github.com/sanketsaurav2411/Recommender-System/assets/75113050/c9eebbe6-07b2-4ef0-89a5-038307fb7461)
+The project is a recommender system that utilizes a specific algorithm for generating personalized recommendations. It is designed to analyze user preferences and make relevant suggestions based on their previous interactions and behavior. The system aims to improve user experience by providing accurate and tailored recommendations, thereby enhancing their engagement with the platform. The project's implementation involves leveraging a tech stack consisting of Python and associated libraries for data processing and machine learning tasks. The recommender system employs sophisticated algorithms and techniques to offer users valuable and personalized recommendations.
 
-![Screenshot 2023-05-20 203839](https://github.com/sanketsaurav2411/Recommender-System/assets/75113050/5029675e-a531-4951-a166-b640db00b994)
+## Stack
+- Programming Language: Python
+- Libraries/Frameworks: Streamlit Pandas, NumPy, Scikit-learn, Pickle, PorterStemmer
+- Web Framework: Streamlit
+- Machine Learning: Collaborative Filtering, Content-Based Filtering
+- Data Analysis: Pandas, NumPy
+- Model Evaluation: Scikit-learn
+- Development Environment: Jupyter Notebook
 
-![Screenshot 2023-05-20 203851](https://github.com/sanketsaurav2411/Recommender-System/assets/75113050/7789836d-9d97-41a8-b728-2ba4d7d4801a)
+## How to run this project
 
-![Screenshot 2023-05-20 203858](https://github.com/sanketsaurav2411/Recommender-System/assets/75113050/3958ea90-4559-4588-ac95-ba8d38291e34)
+### Get required files
+- Install Python (Dont forget to tick Add to Path while installing Python)
+- Clone this project
+- Open project directory in terminal and run following commands :
+```sh
+py -m pip install -r requirements.txt
+```
 
-![Screenshot 2023-05-20 203922](https://github.com/sanketsaurav2411/Recommender-System/assets/75113050/29b331fb-a6b1-4c2d-8e3d-29d01f2b8aeb)
+### Run App
+```sh
+streamlit run app.py
+```
+
+The app will open in you default browser, If not, open your browser and goto `http://localhost:8501`
+
+; )
